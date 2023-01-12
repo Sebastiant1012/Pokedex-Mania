@@ -1,2 +1,2 @@
 # Pokedex-Mania
-Pokedex App Like, Made with React, utilizing the PokeApi
+Pokedex App Like, Made with React, consuming the Poke-Api
